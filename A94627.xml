@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Ld. Fleetwood, to be communicated to the officers of the Army, the humble representation of divers well-affected persons of the city of Westminster and parts adjacent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94627</idno>
+            <idno type="STC">Wing T1651</idno>
+            <idno type="STC">Thomason E979_5</idno>
+            <idno type="STC">ESTC R203801</idno>
+            <idno type="EEBO-CITATION">99863619</idno>
+            <idno type="PROQUEST">99863619</idno>
+            <idno type="VID">168552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168552)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E979[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Ld. Fleetwood, to be communicated to the officers of the Army, the humble representation of divers well-affected persons of the city of Westminster and parts adjacent.</title>
+                  <author>Fleetwood, Charles, d. 1692.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for L. Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168552:1" rendition="simple:additions"/>
+            <p> To the Right Honourable THE L<hi rend="sup">D.</hi> FLEETWOOD, To be Communicated to the OFFICERS Of the ARMY, THE Humble Repreſentation of divers well-affected Perſons of the City of <hi>Weſtminſter</hi> and parts Adjacent.</p>
+            <p>
+               <add>April 27</add> 
+               <hi>LONDON:</hi> Printed for <hi>L. Chapman.</hi> 1659.</p>
+            <pb facs="tcp:168552:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168552:2"/>
+            <head>To the Right Honourable THE <hi>LORD FLEETWOOD,</hi> To be Communicated to the OFFICERS of the ARMY.</head>
+            <p>WHeteas you have by your late Declaration and Tranſactions, made it manifeſt, that you are ſenſible of your backſlidings; and that yet you have cordial affections to the <hi>Good Old Cauſe,</hi> and to our Liberties, both Religi<g ref="char:EOLhyphen"/>ous and Civil; we with many thouſands more re<g ref="char:EOLhyphen"/>joyce on your behalf, and bleſſe the Lord for your ſeaſonable appearance for the vindication and re<g ref="char:EOLhyphen"/>ſurrection of that <hi>precious Cauſe,</hi> which hath coſt ſo much Bloud and Treaſure: ſeveral corrupt Parties having lately with much ſubtlety combined and im<g ref="char:EOLhyphen"/>proved their ſeveral intereſts to deſtroy the ſame; and to bring in upon us an Inundation of Tyranny and ſlavery, both in things Civil and Religious.</p>
+            <pb n="2" facs="tcp:168552:3"/>
+            <p> You cannot be ignorant, and it is the ſenſe gene<g ref="char:EOLhyphen"/>rally of all the well-affected people, who have con<g ref="char:EOLhyphen"/>ſtantly adhered to you in the proſecution of the <hi>Good Old Cauſe,</hi> that the Lord did vouchſafe his glori<g ref="char:EOLhyphen"/>ous preſence with that renowned long Parliament, in their Counſels and Armies: never was there a Parliament more victorious by a conſtant ſeries of gracious Providences: never was there a Parlia<g ref="char:EOLhyphen"/>ment that did more fully aſſert and vindicate the Li<g ref="char:EOLhyphen"/>berties of the People, and make better proviſion for the Souldiers in defence thereof; though in all Po<g ref="char:EOLhyphen"/>litick Bodies, through humane frailty, there will be great miſcarriages and mal-adminiſtrations.</p>
+            <p>But alas, how hath the preſence and glory of God departed from theſe Nations, and from you in par<g ref="char:EOLhyphen"/>ticular, ſince the interruption of that renowned vi<g ref="char:EOLhyphen"/>ctorious Parliament, and the advancement of a private perſonal Intereſt, in ſtead of the Weal-pub<g ref="char:EOLhyphen"/>lick! Our Treaſure hath been exhauſted, many thou<g ref="char:EOLhyphen"/>ſands of our dear Countreymen ſlain, and illegally Impriſoned, and ruined, and our poor Nation like to be made a prey to a foreign Enemy, if the Lord in mercy prevent not: Whereas before, the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> and their Armies, were a terrour to all the Nations round about us.</p>
+            <p>And among other evils, this renowned Army hath been exceedingly corrupted, by the endeavour of ſelf-ſeekers; many of their faithful Officers have been laid aſide, and others put in their places, who never adhered to the <hi>Good Old Cauſe,</hi> and the aſſertors therof in their great ſtraights.</p>
+            <pb n="3" facs="tcp:168552:3"/>
+            <p> We hope that the Lord is now about to reſtore in ſome meaſure the primitive beauty and glory of this Army; which no doubt will be done, if your actions and performances be ſutable to your words and expreſſions; the times now requiring that you ſhould be active in purging the Army in order to the ſettlement of this Commonwealth; and that you ſhould conſtantly conſult and adviſe with the moſt prudent and judicious of your old friends, who having kept their integrity, may adminiſter much light and help to you in this wilderneſs of diſtra<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Wherefore we humbly deſire you, for the honour of God, for the ſatisfaction of the Saints, and the good of your poor dying Countrey; That you would forthwith recal, and reſtore your honeſt publick ſpi<g ref="char:EOLhyphen"/>rited Officers, of whoſe fidelity you have had ſuffi<g ref="char:EOLhyphen"/>cient experience, to their ſeveral places and Com<g ref="char:EOLhyphen"/>mands in the Army; and to turn out thoſe, be they never ſo great, who have manifeſted their enmity and diſaffection to that <hi>Good Old Cauſe,</hi> and the pub<g ref="char:EOLhyphen"/>lick intereſt of theſe Nations. It being impoſſible that you ſhould cheerfully and unanimouſly carry on the <hi>great Work</hi> which is now upon the wheel, ſo long as ſuch corrupt Inſtruments and Time-ſervers have ſuch Commands in this Army, which God ſo eminently owned whilſt they owned him and his Cauſe.</p>
+            <p>We further deſire, that you would be a means, that the Long Parliament, who declared for the
+<pb n="4" facs="tcp:168552:4"/> Government of a Free-State in the Legiſlative Au<g ref="char:EOLhyphen"/>thority of this Commonwealth, may ſpeedily return to their truſts: They and you being ingaged againſt Monarchy, and to be true to the Government as then eſtabliſhed without King or Houſe of Lords.</p>
+            <p>And this we humbly propoſe as the beſt and ſafeſt way to revive and ſtrengthen the <hi>Good Old Cauſe,</hi> and all thoſe honeſt men that are concerned therein. Ma<g ref="char:EOLhyphen"/>ny of the Members of that Parliament, being, we hope, more refined and fitted by their ſeveral Trials, for carrying on the Work, ſince they were diſtur<g ref="char:EOLhyphen"/>bed in managing the Government of this Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>Nor can we rationally conceive, that any other way or model which can be thought of at preſent, will be an effectual means to prevent a new War, and to reſtrain the abuſes of the Law, and ſecure and preſerve us from Monarchy and Tyranny, or the Arbitrary and unlimited power of the Sword, if this means and expedient, which legally ought to take place, be rejected; all other waies and means which have been attempted hitherto, having proved inef<g ref="char:EOLhyphen"/>fectual and fruitleſs.</p>
+            <p>And hereby you will make it appear, that in this late great undertaking of yours, you have not ſought your own particular advantage, or the greaming of your ſelves, but the publick good of your Coun<g ref="char:EOLhyphen"/>trey; it being your wiſdom and ſafety, to return again into that way, where you found much of the preſence and aſſiſtance of God; and from which
+<pb n="5" facs="tcp:168552:4"/> having departed, your way hath been hedged up with thornes, and ſurrounded with inſuperable dif<g ref="char:EOLhyphen"/>ficulties.</p>
+            <p>In doing thoſe things, and whatſoever elſe hath a tendencie to the publick good of theſe Nations, we truſt the Lord will yet delight to dwell in the midſt of you, and will make you a further bleſ<g ref="char:EOLhyphen"/>ſing to this Commonwealth, and ſpecially to his own peculiar People, who have powred out ma<g ref="char:EOLhyphen"/>ny prayers and tears for you in the defence of that precious Cauſe, whereunto you have ſo of<g ref="char:EOLhyphen"/>ten born witneſs; and in the further proſecution whereof, we are reſolved by the Lords aſſiſtance to live and die with you.</p>
+            <p>But if after all theſe ſhaking and ſtupendious Providences, and this late undertaking of yours, you ſhould lift up your ſelves or any Party a<g ref="char:EOLhyphen"/>mong your ſelves, or ſhould be inſtrumental by the Sword to advance any other private Inte<g ref="char:EOLhyphen"/>reſt or family whatſoever, againſt which the Lord hath ſo eminently witneſſed from heaven, we, with thouſands more, who cordially love the <hi>Good Old Cauſe,</hi> cannot own you in ſuch waies; nor will the Lord go along with you in your Counſels and enterpriſes; but will viſit by ſome remarkable Judgment or other, for this per<g ref="char:EOLhyphen"/>petual Backſliding from Him and his Cauſe. But we hope better things from you by the Lords aſ<g ref="char:EOLhyphen"/>ſiſtance, and ſuch things as may rejoyce the hearts
+<pb n="6" facs="tcp:168552:5"/> of all your true Friends, and be a terror to all the Enemies of this Commonwealth.</p>
+            <argument>
+               <p>This Paper was preſented <date>April 25. 1659.</date>
+               </p>
+               <p>And this Anſwer was returned, (to wit) <hi>THat ſeveral of the Things therein contained, were already under conſideration, and they ſhould do as the Lord ſhould direct them.</hi>
+               </p>
+            </argument>
+         </div>
+      </body>
+   </text>
+</TEI>
